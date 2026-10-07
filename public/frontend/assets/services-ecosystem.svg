@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Connected agricultural ecosystem</title>
+  <desc id="desc">A farmer connected to products, soil testing, support, stock points and technology.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1f3d"/>
+      <stop offset="1" stop-color="#0e6b3a"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="42" fill="url(#bg)"/>
+  <circle cx="600" cy="360" r="126" fill="#f5b700"/>
+  <circle cx="600" cy="360" r="104" fill="#fff"/>
+  <path d="M548 407c8-65 28-101 52-124 24 23 44 59 52 124" fill="#2eb872"/>
+  <path d="M600 283v124M572 335c-34-14-56-8-73 11M628 335c34-14 56-8 73 11" fill="none" stroke="#0e6b3a" stroke-width="12" stroke-linecap="round"/>
+  <g fill="url(#card)" stroke="#fff" stroke-opacity=".28">
+    <rect x="78" y="86" width="300" height="150" rx="24"/>
+    <rect x="822" y="86" width="300" height="150" rx="24"/>
+    <rect x="58" y="494" width="320" height="150" rx="24"/>
+    <rect x="822" y="494" width="320" height="150" rx="24"/>
+  </g>
+  <g fill="none" stroke="#f5b700" stroke-width="5" stroke-dasharray="10 12">
+    <path d="M378 161l222 140M822 161L600 301M378 569l222-140M822 569L600 419"/>
+  </g>
+  <g fill="#fff" font-family="Arial, sans-serif">
+    <text x="112" y="140" font-size="28" font-weight="700">Quality Products</text>
+    <text x="112" y="180" font-size="20" opacity=".8">Inputs for better harvests</text>
+    <text x="856" y="140" font-size="28" font-weight="700">Soil &amp; Support</text>
+    <text x="856" y="180" font-size="20" opacity=".8">Guidance for every season</text>
+    <text x="92" y="548" font-size="28" font-weight="700">Local Stock Points</text>
+    <text x="92" y="588" font-size="20" opacity=".8">Closer access for farmers</text>
+    <text x="856" y="548" font-size="28" font-weight="700">Technology</text>
+    <text x="856" y="588" font-size="20" opacity=".8">Connected, transparent services</text>
+    <text x="600" y="350" text-anchor="middle" font-size="22" fill="#0c1f3d" font-weight="700">FARMER</text>
+    <text x="600" y="382" text-anchor="middle" font-size="17" fill="#0e6b3a">One connected ecosystem</text>
+  </g>
+</svg>
